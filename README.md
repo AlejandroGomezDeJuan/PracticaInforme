@@ -224,4 +224,4 @@ He realizado un test con Mockito
 <img src="diseño.jpg" alt="Diagrama de arquitectura del sistema" style="width: 250px;" />
 
 **Enlace al repositorio**
-- 
+- https://github.com/AlejandroGomezDeJuan/PracticaInforme.git
